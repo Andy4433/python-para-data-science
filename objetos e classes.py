@@ -1,3 +1,5 @@
+##########################################################################################################################################
+
 import matplotlib.pyplot as plt  # Importa a biblioteca matplotlib para visualização de gráficos
 %matplotlib inline  
 # Permite exibir os gráficos inline no notebook
@@ -29,3 +31,6 @@ RedCircle.radius = 1  # Modifica o valor do atributo radius do objeto RedCircle 
 RedCircle.radius  # Imprime o novo valor do atributo radius do objeto RedCircle
 
 RedCircle.drawCircle()  # Chama o método drawCircle do objeto RedCircle para desenhar o círculo
+
+##########################################################################################################################################
+
